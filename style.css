@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana;
+}
+
+#page{
+  
+    width: 100%;
+    height: 1000px;
+
+}
+#bgimage{
+    width: 100%;
+    height: 650px;
+    background-image: url(43895099105_0eaf6ef695_k.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#header{
+    padding-top: 10px;
+    width: 100%;
+    text-indent: 20px;
+    line-height: 50px;
+    height: 50px;
+}
+#logo{
+    display: inline-block;
+    float: left;
+}
+#nav ul{
+    list-style: none;
+}
+#nav ul li a{
+    color: #f1f1f2;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+#nav ul li a:hover{
+    color: #217ca3;
+}
+#nav ul li{
+    float: left;
+}
+#nav{
+    margin-right: 30px;
+    float: right;
+}
+
+#text{
+    text-align: center;
+    margin: 120px auto;
+    color: white;
+    width: 600px;
+}
+#text h3{
+    padding-bottom: 10px;
+}
+#text h1{
+    padding-bottom: 10px;
+}
+#text button{
+    margin-top: 20px;
+}
+button{
+    width: 138.25px;
+    height: 30px;
+    color: white;
+    background-color: rgb(0, 102, 255, 0.1);
+    border: 1px solid #217ca3;
+    border-radius: 15px;
+    padding: 10px;
+    padding-top: 8px;
+    margin-left: 15px;
+}
+button:hover{
+    background-color: #217ca3;
+    color: white;
+    cursor: pointer;
+}
+
+
+#content{
+    padding-top: 70px;
+    /* padding-left: 74.5px; */
+    width: 100%;
+    height: 500px;
+    background-color: #217ca3;
+}
+#box1{
+    margin-left: 18.625px;
+    margin-right: 37.25px;
+    float: left;
+    text-align: center;
+    width: 300px;
+    background-color: #217ca3;
+    color: white;
+}
+#box1 h3{
+    padding-top: 15px;
+}
+#box1 p{
+    padding-top: 20px;
+
+}
+
+#box2{
+    margin-right: 37.25px;
+    float: left;
+    text-align: center;
+    width: 300px;
+    background-color: #217ca3;
+    color: white;
+}
+#box2 h3{
+    padding-top: 15px;
+}
+#box2 p{
+    padding-top: 20px;
+
+}
+
+#box3{
+    margin-right: 37.25px;
+    float: left;
+    text-align: center;
+    width: 300px;
+    background-color: #217ca3;
+    color: white;
+}
+#box3 h3{
+    padding-top: 15px;
+}
+#box3 p{
+    padding-top: 20px;
+
+}
+
+#box4{
+    margin-right: 18.625px;
+    float: left;
+    text-align: center;
+    width: 300px;
+    background-color: #217ca3;
+    color: white;
+}
+#box4 h3{
+    padding-top: 15px;
+}
+#box4 p{
+    padding-top: 20px;
+
+}
